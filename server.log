@@ -1,0 +1,604 @@
+INFO:server:logger:Tue Apr 18 12:28:56 2023:[ Server ]: 0.000 2023-04-18 12:28:56; Factorio 1.1.80 (build 60618, linux64, headless)
+INFO:server:logger:Tue Apr 18 12:28:56 2023:[ Server ]: 0.125 Operating system: Linux (Ubuntu 20.04)
+INFO:server:logger:Tue Apr 18 12:28:56 2023:[ Server ]: 0.125 Program arguments: "/home/factorio_handler/server/bin/x64/factorio" "--start-server" "/home/factorio_handler/server/saves/sss.zip" "--server-settings" "/home/factorio_handler/server/config/server-settings.json" "--port" "34197" 
+INFO:server:logger:Tue Apr 18 12:28:56 2023:[ Server ]: 0.125 Config path: /home/factorio_handler/server/config/config.ini
+INFO:server:logger:Tue Apr 18 12:28:56 2023:[ Server ]: 0.125 Read data path: /home/factorio_handler/server/data
+INFO:server:logger:Tue Apr 18 12:28:56 2023:[ Server ]: 0.125 Write data path: /home/factorio_handler/server [13452/23905MB]
+INFO:server:logger:Tue Apr 18 12:28:56 2023:[ Server ]: 0.125 Binaries path: /home/factorio_handler/server/bin
+INFO:server:logger:Tue Apr 18 12:28:56 2023:[ Server ]: 0.147 System info: [CPU: Intel Core Processor (Broadwell, no TSX, IBRS), 1 core, RAM: 976 MB]
+INFO:server:logger:Tue Apr 18 12:28:56 2023:[ Server ]: 0.147 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+INFO:server:logger:Tue Apr 18 12:28:56 2023:[ Server ]: 0.148 Running in headless mode
+INFO:server:logger:Tue Apr 18 12:28:57 2023:[ Server ]: 0.333 Loading mod settings IndustrialRevolution3 3.0.16 (settings.lua)
+INFO:server:logger:Tue Apr 18 12:28:57 2023:[ Server ]: 0.338 Loading mod settings IndustrialRevolution3 3.0.16 (settings-updates.lua)
+INFO:server:logger:Tue Apr 18 12:28:57 2023:[ Server ]: 0.343 Loading mod core 0.0.0 (data.lua)
+INFO:server:logger:Tue Apr 18 12:28:57 2023:[ Server ]: 0.425 Loading mod base 1.1.80 (data.lua)
+INFO:server:logger:Tue Apr 18 12:28:57 2023:[ Server ]: 1.125 Loading mod IndustrialRevolution3 3.0.16 (data.lua)
+INFO:server:logger:Tue Apr 18 12:28:58 2023:[ Server ]: 1.660 Loading mod base 1.1.80 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 12:28:58 2023:[ Server ]: 1.763 Loading mod IndustrialRevolution3 3.0.16 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 12:28:59 2023:[ Server ]: 2.340 Loading mod IndustrialRevolution3 3.0.16 (data-final-fixes.lua)
+INFO:server:logger:Tue Apr 18 12:29:02 2023:[ Server ]: 5.989 Checksum for core: 3955387189
+INFO:server:logger:Tue Apr 18 12:29:02 2023:[ Server ]: 5.990 Checksum of base: 434889501
+INFO:server:logger:Tue Apr 18 12:29:02 2023:[ Server ]: 5.990 Checksum of IndustrialRevolution3Assets1: 0
+INFO:server:logger:Tue Apr 18 12:29:02 2023:[ Server ]: 5.990 Checksum of IndustrialRevolution3Assets2: 0
+INFO:server:logger:Tue Apr 18 12:29:02 2023:[ Server ]: 5.990 Checksum of IndustrialRevolution3Assets3: 0
+INFO:server:logger:Tue Apr 18 12:29:02 2023:[ Server ]: 5.990 Checksum of IndustrialRevolution3Assets4: 0
+INFO:server:logger:Tue Apr 18 12:29:02 2023:[ Server ]: 5.990 Checksum of IndustrialRevolution3: 1308095867
+INFO:server:logger:Tue Apr 18 12:29:02 2023:[ Server ]: 5.990 Checksum of IndustrialRevolution_Language_Pack: 0
+INFO:server:logger:Tue Apr 18 12:29:03 2023:[ Server ]: 7.028 Prototype list checksum: 83389984
+INFO:server:logger:Tue Apr 18 12:29:03 2023:[ Server ]: 7.296 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1681820891
+INFO:server:logger:Tue Apr 18 12:29:03 2023:[ Server ]: 7.296 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+INFO:server:logger:Tue Apr 18 12:29:03 2023:[ Server ]: 7.311 Factorio initialised
+INFO:server:logger:Tue Apr 18 12:29:03 2023:[ Server ]: 7.312 Info ServerSynchronizer.cpp:29: nextHeartbeatSequenceNumber(0) initialized Synchronizer nextTickClosureTick(0).
+INFO:server:logger:Tue Apr 18 12:29:03 2023:[ Server ]: 7.312 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(Ready) to(PreparedToHostGame)
+INFO:server:logger:Tue Apr 18 12:29:03 2023:[ Server ]: 7.312 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(PreparedToHostGame) to(CreatingGame)
+INFO:server:logger:Tue Apr 18 12:29:04 2023:[ Server ]: 7.330 Loading map /home/factorio_handler/server/saves/sss.zip: 3340419 bytes.
+INFO:server:logger:Tue Apr 18 12:29:04 2023:[ Server ]: 7.416 Loading level.dat: 8697897 bytes.
+INFO:server:logger:Tue Apr 18 12:29:04 2023:[ Server ]: 7.439 Info Scenario.cpp:199: Map version 1.1.80-0
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.341 Loading script.dat: 2394 bytes.
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.358 Checksum for script /home/factorio_handler/server/temp/currently-playing/control.lua: 2881393120
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.447 Checksum for script __IndustrialRevolution3__/control.lua: 3904640006
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.479 Info UDPSocket.cpp:27: Opening socket at (IP ADDR:({0.0.0.0:34197}))
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.482 Hosting game at IP ADDR:({0.0.0.0:34197})
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.483 Info HttpSharedState.cpp:54: Downloading https://auth.factorio.com/generate-server-padlock-2?api_version=5
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.593 Info AuthServerConnector.cpp:79: Obtained serverPadlock for serverHash (ZD5EObasIMBZWMXTnG3fU6w6qBSYHxVk) from the auth server.
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.593 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(CreatingGame) to(InGame)
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.598 Info ServerRouter.cpp:650: Asking pingpong servers (pingpong1.factorio.com:34197, pingpong2.factorio.com:34197, pingpong3.factorio.com:34197, pingpong4.factorio.com:34197) for own address
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.598 Info CommandLineMultiplayer.cpp:292: Maximum segment size = 100; minimum segment size = 25; maximum-segment-size peer count = 10; minimum-segment-size peer count = 20
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.632 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong3)
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.699 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong2)
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.700 Info MatchingServer.cpp:114: Matching server game `14990769` has been created.
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.715 Info ServerMultiplayerManager.cpp:727: Matching server connection resumed
+INFO:server:logger:Tue Apr 18 12:29:05 2023:[ Server ]: 8.749 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong4)
+INFO:server:logger:Tue Apr 18 12:29:16 2023:[ Server ]: 19.788 Received SIGINT, shutting down
+INFO:server:logger:Tue Apr 18 12:29:16 2023:[ Server ]: 19.788 Quitting: signal.
+INFO:server:logger:Tue Apr 18 12:29:16 2023:[ Server ]: 19.789 Info MainLoop.cpp:417: Saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 12:29:16 2023:[ Server ]: 20.015 Info MainLoop.cpp:428: Saving progress: 0.039968%
+INFO:server:logger:Tue Apr 18 12:29:16 2023:[ Server ]: 20.224 Info MainLoop.cpp:428: Saving progress: 100.000000%
+INFO:server:logger:Tue Apr 18 12:29:17 2023:[ Server ]: 20.624 Info ServerMultiplayerManager.cpp:114: Disconnecting multiplayer connection.
+INFO:server:logger:Tue Apr 18 12:29:17 2023:[ Server ]: 20.625 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(InGame) to(DisconnectingScheduled)
+INFO:server:logger:Tue Apr 18 12:29:17 2023:[ Server ]: 20.658 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(DisconnectingScheduled) to(Disconnecting)
+INFO:server:logger:Tue Apr 18 12:29:17 2023:[ Server ]: 20.692 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(Disconnecting) to(Disconnected)
+INFO:server:logger:Tue Apr 18 12:29:17 2023:[ Server ]: 20.692 Info ServerMultiplayerManager.cpp:141: Quitting multiplayer connection.
+INFO:server:logger:Tue Apr 18 12:29:17 2023:[ Server ]: 20.692 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(Disconnected) to(Closed)
+INFO:server:logger:Tue Apr 18 12:29:17 2023:[ Server ]: 20.941 Info HttpSharedState.cpp:54: Downloading https://multiplayer.factorio.com/remove-game/14990769
+INFO:server:logger:Tue Apr 18 12:29:17 2023:[ Server ]: 21.076 Info UDPSocket.cpp:218: Closing socket
+INFO:server:logger:Tue Apr 18 12:29:17 2023:[ Server ]: 21.076 Info UDPSocket.cpp:248: Socket closed
+INFO:server:logger:Tue Apr 18 12:29:17 2023:[ Server ]: 21.238 Goodbye
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.000 2023-04-18 12:29:24; Factorio 1.1.80 (build 60618, linux64, headless)
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.118 Operating system: Linux (Ubuntu 20.04)
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.118 Program arguments: "/home/factorio_handler/server/bin/x64/factorio" "--start-server" "/home/factorio_handler/server/saves/sss.zip" "--server-settings" "/home/factorio_handler/server/config/server-settings.json" "--port" "34197" 
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.118 Config path: /home/factorio_handler/server/config/config.ini
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.118 Read data path: /home/factorio_handler/server/data
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.118 Write data path: /home/factorio_handler/server [13452/23905MB]
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.118 Binaries path: /home/factorio_handler/server/bin
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.137 System info: [CPU: Intel Core Processor (Broadwell, no TSX, IBRS), 1 core, RAM: 976 MB]
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.137 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.138 Running in headless mode
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.305 Loading mod settings IndustrialRevolution3 3.0.16 (settings.lua)
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.310 Loading mod settings IndustrialRevolution3 3.0.16 (settings-updates.lua)
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.316 Loading mod core 0.0.0 (data.lua)
+INFO:server:logger:Tue Apr 18 12:29:24 2023:[ Server ]: 0.402 Loading mod base 1.1.80 (data.lua)
+INFO:server:logger:Tue Apr 18 12:29:25 2023:[ Server ]: 0.981 Loading mod IndustrialRevolution3 3.0.16 (data.lua)
+INFO:server:logger:Tue Apr 18 12:29:26 2023:[ Server ]: 1.459 Loading mod base 1.1.80 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 12:29:26 2023:[ Server ]: 1.564 Loading mod IndustrialRevolution3 3.0.16 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 12:29:26 2023:[ Server ]: 1.799 Loading mod IndustrialRevolution3 3.0.16 (data-final-fixes.lua)
+INFO:server:logger:Tue Apr 18 12:29:29 2023:[ Server ]: 5.296 Checksum for core: 3955387189
+INFO:server:logger:Tue Apr 18 12:29:29 2023:[ Server ]: 5.296 Checksum of base: 434889501
+INFO:server:logger:Tue Apr 18 12:29:29 2023:[ Server ]: 5.297 Checksum of IndustrialRevolution3Assets1: 0
+INFO:server:logger:Tue Apr 18 12:29:29 2023:[ Server ]: 5.297 Checksum of IndustrialRevolution3Assets2: 0
+INFO:server:logger:Tue Apr 18 12:29:29 2023:[ Server ]: 5.297 Checksum of IndustrialRevolution3Assets3: 0
+INFO:server:logger:Tue Apr 18 12:29:29 2023:[ Server ]: 5.297 Checksum of IndustrialRevolution3Assets4: 0
+INFO:server:logger:Tue Apr 18 12:29:29 2023:[ Server ]: 5.297 Checksum of IndustrialRevolution3: 1308095867
+INFO:server:logger:Tue Apr 18 12:29:29 2023:[ Server ]: 5.297 Checksum of IndustrialRevolution_Language_Pack: 0
+INFO:server:logger:Tue Apr 18 12:29:30 2023:[ Server ]: 6.215 Prototype list checksum: 83389984
+INFO:server:logger:Tue Apr 18 12:29:31 2023:[ Server ]: 6.480 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1681820957
+INFO:server:logger:Tue Apr 18 12:29:31 2023:[ Server ]: 6.480 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+INFO:server:logger:Tue Apr 18 12:29:31 2023:[ Server ]: 6.501 Factorio initialised
+INFO:server:logger:Tue Apr 18 12:29:31 2023:[ Server ]: 6.504 Info ServerSynchronizer.cpp:29: nextHeartbeatSequenceNumber(0) initialized Synchronizer nextTickClosureTick(0).
+INFO:server:logger:Tue Apr 18 12:29:31 2023:[ Server ]: 6.504 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(Ready) to(PreparedToHostGame)
+INFO:server:logger:Tue Apr 18 12:29:31 2023:[ Server ]: 6.504 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(PreparedToHostGame) to(CreatingGame)
+INFO:server:logger:Tue Apr 18 12:29:31 2023:[ Server ]: 6.520 Loading map /home/factorio_handler/server/saves/sss.zip: 3340419 bytes.
+INFO:server:logger:Tue Apr 18 12:29:31 2023:[ Server ]: 6.617 Loading level.dat: 8697897 bytes.
+INFO:server:logger:Tue Apr 18 12:29:31 2023:[ Server ]: 6.626 Info Scenario.cpp:199: Map version 1.1.80-0
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 7.552 Loading script.dat: 2394 bytes.
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 7.558 Checksum for script /home/factorio_handler/server/temp/currently-playing/control.lua: 2881393120
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 7.721 Checksum for script __IndustrialRevolution3__/control.lua: 3904640006
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 7.834 Info UDPSocket.cpp:27: Opening socket at (IP ADDR:({0.0.0.0:34197}))
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 7.840 Hosting game at IP ADDR:({0.0.0.0:34197})
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 7.840 Info HttpSharedState.cpp:54: Downloading https://auth.factorio.com/generate-server-padlock-2?api_version=5
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 7.957 Info AuthServerConnector.cpp:79: Obtained serverPadlock for serverHash (dWg3M6SrkIk5oUumg2zIh1utWEMeugfO) from the auth server.
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 7.957 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(CreatingGame) to(InGame)
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 7.969 Info ServerRouter.cpp:650: Asking pingpong servers (pingpong1.factorio.com:34197, pingpong2.factorio.com:34197, pingpong3.factorio.com:34197, pingpong4.factorio.com:34197) for own address
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 7.971 Info CommandLineMultiplayer.cpp:292: Maximum segment size = 100; minimum segment size = 25; maximum-segment-size peer count = 10; minimum-segment-size peer count = 20
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 8.005 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong3)
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 8.070 Info MatchingServer.cpp:114: Matching server game `14990770` has been created.
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 8.072 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong2)
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 8.072 Info ServerMultiplayerManager.cpp:727: Matching server connection resumed
+INFO:server:logger:Tue Apr 18 12:29:32 2023:[ Server ]: 8.122 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong4)
+INFO:server:logger:Tue Apr 18 12:32:40 2023:[ Server ]: 195.908 Received SIGINT, shutting down
+INFO:server:logger:Tue Apr 18 12:32:40 2023:[ Server ]: 195.910 Quitting: signal.
+INFO:server:logger:Tue Apr 18 12:32:40 2023:[ Server ]: 195.911 Info MainLoop.cpp:417: Saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 12:32:41 2023:[ Server ]: 196.490 Info MainLoop.cpp:428: Saving progress: 0.039968%
+INFO:server:logger:Tue Apr 18 12:32:41 2023:[ Server ]: 196.719 Info MainLoop.cpp:428: Saving progress: 100.000000%
+INFO:server:logger:Tue Apr 18 12:32:41 2023:[ Server ]: 197.117 Info ServerMultiplayerManager.cpp:114: Disconnecting multiplayer connection.
+INFO:server:logger:Tue Apr 18 12:32:41 2023:[ Server ]: 197.117 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(InGame) to(DisconnectingScheduled)
+INFO:server:logger:Tue Apr 18 12:32:41 2023:[ Server ]: 197.150 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(DisconnectingScheduled) to(Disconnecting)
+INFO:server:logger:Tue Apr 18 12:32:41 2023:[ Server ]: 197.184 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(Disconnecting) to(Disconnected)
+INFO:server:logger:Tue Apr 18 12:32:41 2023:[ Server ]: 197.184 Info ServerMultiplayerManager.cpp:141: Quitting multiplayer connection.
+INFO:server:logger:Tue Apr 18 12:32:41 2023:[ Server ]: 197.184 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(Disconnected) to(Closed)
+INFO:server:logger:Tue Apr 18 12:32:41 2023:[ Server ]: 197.346 Info HttpSharedState.cpp:54: Downloading https://multiplayer.factorio.com/remove-game/14990770
+INFO:server:logger:Tue Apr 18 12:32:41 2023:[ Server ]: 197.431 Info UDPSocket.cpp:218: Closing socket
+INFO:server:logger:Tue Apr 18 12:32:41 2023:[ Server ]: 197.431 Info UDPSocket.cpp:248: Socket closed
+INFO:server:logger:Tue Apr 18 12:32:42 2023:[ Server ]: 197.744 Goodbye
+INFO:server:logger:Tue Apr 18 12:33:47 2023:[ Server ]: 0.000 2023-04-18 12:33:47; Factorio 1.1.80 (build 60618, linux64, headless)
+INFO:server:logger:Tue Apr 18 12:33:47 2023:[ Server ]: 0.111 Operating system: Linux (Ubuntu 20.04)
+INFO:server:logger:Tue Apr 18 12:33:47 2023:[ Server ]: 0.111 Program arguments: "/home/factorio_handler/server/bin/x64/factorio" "--start-server" "/home/factorio_handler/server/saves/sss.zip" "--server-settings" "/home/factorio_handler/server/config/server-settings.json" "--port" "34197" 
+INFO:server:logger:Tue Apr 18 12:33:47 2023:[ Server ]: 0.111 Config path: /home/factorio_handler/server/config/config.ini
+INFO:server:logger:Tue Apr 18 12:33:47 2023:[ Server ]: 0.111 Read data path: /home/factorio_handler/server/data
+INFO:server:logger:Tue Apr 18 12:33:47 2023:[ Server ]: 0.111 Write data path: /home/factorio_handler/server [13452/23905MB]
+INFO:server:logger:Tue Apr 18 12:33:47 2023:[ Server ]: 0.111 Binaries path: /home/factorio_handler/server/bin
+INFO:server:logger:Tue Apr 18 12:33:47 2023:[ Server ]: 0.131 System info: [CPU: Intel Core Processor (Broadwell, no TSX, IBRS), 1 core, RAM: 976 MB]
+INFO:server:logger:Tue Apr 18 12:33:47 2023:[ Server ]: 0.131 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+INFO:server:logger:Tue Apr 18 12:33:47 2023:[ Server ]: 0.132 Running in headless mode
+INFO:server:logger:Tue Apr 18 12:33:48 2023:[ Server ]: 0.308 Loading mod settings IndustrialRevolution3 3.0.16 (settings.lua)
+INFO:server:logger:Tue Apr 18 12:33:48 2023:[ Server ]: 0.314 Loading mod settings IndustrialRevolution3 3.0.16 (settings-updates.lua)
+INFO:server:logger:Tue Apr 18 12:33:48 2023:[ Server ]: 0.321 Loading mod core 0.0.0 (data.lua)
+INFO:server:logger:Tue Apr 18 12:33:48 2023:[ Server ]: 0.402 Loading mod base 1.1.80 (data.lua)
+INFO:server:logger:Tue Apr 18 12:33:48 2023:[ Server ]: 1.057 Loading mod IndustrialRevolution3 3.0.16 (data.lua)
+INFO:server:logger:Tue Apr 18 12:33:49 2023:[ Server ]: 1.556 Loading mod base 1.1.80 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 12:33:49 2023:[ Server ]: 1.656 Loading mod IndustrialRevolution3 3.0.16 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 12:33:49 2023:[ Server ]: 1.913 Loading mod IndustrialRevolution3 3.0.16 (data-final-fixes.lua)
+INFO:server:logger:Tue Apr 18 12:33:53 2023:[ Server ]: 5.500 Checksum for core: 3955387189
+INFO:server:logger:Tue Apr 18 12:33:53 2023:[ Server ]: 5.506 Checksum of base: 434889501
+INFO:server:logger:Tue Apr 18 12:33:53 2023:[ Server ]: 5.506 Checksum of IndustrialRevolution3Assets1: 0
+INFO:server:logger:Tue Apr 18 12:33:53 2023:[ Server ]: 5.506 Checksum of IndustrialRevolution3Assets2: 0
+INFO:server:logger:Tue Apr 18 12:33:53 2023:[ Server ]: 5.506 Checksum of IndustrialRevolution3Assets3: 0
+INFO:server:logger:Tue Apr 18 12:33:53 2023:[ Server ]: 5.506 Checksum of IndustrialRevolution3Assets4: 0
+INFO:server:logger:Tue Apr 18 12:33:53 2023:[ Server ]: 5.506 Checksum of IndustrialRevolution3: 1308095867
+INFO:server:logger:Tue Apr 18 12:33:53 2023:[ Server ]: 5.507 Checksum of IndustrialRevolution_Language_Pack: 0
+INFO:server:logger:Tue Apr 18 12:33:54 2023:[ Server ]: 6.467 Prototype list checksum: 83389984
+INFO:server:logger:Tue Apr 18 12:33:54 2023:[ Server ]: 6.703 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1681821162
+INFO:server:logger:Tue Apr 18 12:33:54 2023:[ Server ]: 6.706 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+INFO:server:logger:Tue Apr 18 12:33:54 2023:[ Server ]: 6.724 Factorio initialised
+INFO:server:logger:Tue Apr 18 12:33:54 2023:[ Server ]: 6.725 Info ServerSynchronizer.cpp:29: nextHeartbeatSequenceNumber(0) initialized Synchronizer nextTickClosureTick(0).
+INFO:server:logger:Tue Apr 18 12:33:54 2023:[ Server ]: 6.726 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(Ready) to(PreparedToHostGame)
+INFO:server:logger:Tue Apr 18 12:33:54 2023:[ Server ]: 6.726 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(PreparedToHostGame) to(CreatingGame)
+INFO:server:logger:Tue Apr 18 12:33:54 2023:[ Server ]: 6.747 Loading map /home/factorio_handler/server/saves/sss.zip: 3340419 bytes.
+INFO:server:logger:Tue Apr 18 12:33:54 2023:[ Server ]: 6.827 Loading level.dat: 8697897 bytes.
+INFO:server:logger:Tue Apr 18 12:33:54 2023:[ Server ]: 6.853 Info Scenario.cpp:199: Map version 1.1.80-0
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 7.799 Loading script.dat: 2394 bytes.
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 7.826 Checksum for script /home/factorio_handler/server/temp/currently-playing/control.lua: 2881393120
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 7.914 Checksum for script __IndustrialRevolution3__/control.lua: 3904640006
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 7.955 Info UDPSocket.cpp:27: Opening socket at (IP ADDR:({0.0.0.0:34197}))
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 7.955 Hosting game at IP ADDR:({0.0.0.0:34197})
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 7.956 Info HttpSharedState.cpp:54: Downloading https://auth.factorio.com/generate-server-padlock-2?api_version=5
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 8.088 Info AuthServerConnector.cpp:79: Obtained serverPadlock for serverHash (pNtZDoFBlUcZWwqg8QjtSgNzklvNDVHF) from the auth server.
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 8.088 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(CreatingGame) to(InGame)
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 8.118 Info ServerRouter.cpp:650: Asking pingpong servers (pingpong1.factorio.com:34197, pingpong2.factorio.com:34197, pingpong3.factorio.com:34197, pingpong4.factorio.com:34197) for own address
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 8.119 Info CommandLineMultiplayer.cpp:292: Maximum segment size = 100; minimum segment size = 25; maximum-segment-size peer count = 10; minimum-segment-size peer count = 20
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 8.154 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong3)
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 8.220 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong2)
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 8.223 Info MatchingServer.cpp:114: Matching server game `14990792` has been created.
+INFO:server:logger:Tue Apr 18 12:33:55 2023:[ Server ]: 8.237 Info ServerMultiplayerManager.cpp:727: Matching server connection resumed
+INFO:server:logger:Tue Apr 18 12:33:56 2023:[ Server ]: 8.270 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong4)
+INFO:server:logger:Tue Apr 18 12:34:20 2023:[ Server ]: 32.746 Received SIGINT, shutting down
+INFO:server:logger:Tue Apr 18 12:34:20 2023:[ Server ]: 32.746 Quitting: signal.
+INFO:server:logger:Tue Apr 18 12:34:20 2023:[ Server ]: 32.746 Info MainLoop.cpp:417: Saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 12:34:20 2023:[ Server ]: 32.976 Info MainLoop.cpp:428: Saving progress: 0.039968%
+INFO:server:logger:Tue Apr 18 12:34:20 2023:[ Server ]: 33.183 Info MainLoop.cpp:428: Saving progress: 100.000000%
+INFO:server:logger:Tue Apr 18 12:34:21 2023:[ Server ]: 33.583 Info ServerMultiplayerManager.cpp:114: Disconnecting multiplayer connection.
+INFO:server:logger:Tue Apr 18 12:34:21 2023:[ Server ]: 33.583 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(InGame) to(DisconnectingScheduled)
+INFO:server:logger:Tue Apr 18 12:34:21 2023:[ Server ]: 33.617 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(DisconnectingScheduled) to(Disconnecting)
+INFO:server:logger:Tue Apr 18 12:34:21 2023:[ Server ]: 33.650 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(Disconnecting) to(Disconnected)
+INFO:server:logger:Tue Apr 18 12:34:21 2023:[ Server ]: 33.652 Info ServerMultiplayerManager.cpp:141: Quitting multiplayer connection.
+INFO:server:logger:Tue Apr 18 12:34:21 2023:[ Server ]: 33.652 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(Disconnected) to(Closed)
+INFO:server:logger:Tue Apr 18 12:34:21 2023:[ Server ]: 33.904 Info HttpSharedState.cpp:54: Downloading https://multiplayer.factorio.com/remove-game/14990792
+INFO:server:logger:Tue Apr 18 12:34:21 2023:[ Server ]: 34.007 Info UDPSocket.cpp:218: Closing socket
+INFO:server:logger:Tue Apr 18 12:34:21 2023:[ Server ]: 34.007 Info UDPSocket.cpp:248: Socket closed
+INFO:server:logger:Tue Apr 18 12:34:21 2023:[ Server ]: 34.195 Goodbye
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.000 2023-04-18 12:37:16; Factorio 1.1.80 (build 60618, linux64, headless)
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.107 Operating system: Linux (Ubuntu 20.04)
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.107 Program arguments: "/home/factorio_handler/server/bin/x64/factorio" "--start-server" "/home/factorio_handler/server/saves/sss.zip" "--server-settings" "/home/factorio_handler/server/config/server-settings.json" "--port" "34197" 
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.107 Config path: /home/factorio_handler/server/config/config.ini
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.107 Read data path: /home/factorio_handler/server/data
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.107 Write data path: /home/factorio_handler/server [13452/23905MB]
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.107 Binaries path: /home/factorio_handler/server/bin
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.125 System info: [CPU: Intel Core Processor (Broadwell, no TSX, IBRS), 1 core, RAM: 976 MB]
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.129 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.129 Running in headless mode
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.331 Loading mod settings IndustrialRevolution3 3.0.16 (settings.lua)
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.336 Loading mod settings IndustrialRevolution3 3.0.16 (settings-updates.lua)
+INFO:server:logger:Tue Apr 18 12:37:16 2023:[ Server ]: 0.342 Loading mod core 0.0.0 (data.lua)
+INFO:server:logger:Tue Apr 18 12:37:17 2023:[ Server ]: 0.436 Loading mod base 1.1.80 (data.lua)
+INFO:server:logger:Tue Apr 18 12:37:17 2023:[ Server ]: 1.051 Loading mod IndustrialRevolution3 3.0.16 (data.lua)
+INFO:server:logger:Tue Apr 18 12:37:18 2023:[ Server ]: 1.562 Loading mod base 1.1.80 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 12:37:18 2023:[ Server ]: 1.673 Loading mod IndustrialRevolution3 3.0.16 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 12:37:18 2023:[ Server ]: 2.013 Loading mod IndustrialRevolution3 3.0.16 (data-final-fixes.lua)
+INFO:server:logger:Tue Apr 18 12:37:21 2023:[ Server ]: 5.351 Checksum for core: 3955387189
+INFO:server:logger:Tue Apr 18 12:37:21 2023:[ Server ]: 5.357 Checksum of base: 434889501
+INFO:server:logger:Tue Apr 18 12:37:21 2023:[ Server ]: 5.357 Checksum of IndustrialRevolution3Assets1: 0
+INFO:server:logger:Tue Apr 18 12:37:21 2023:[ Server ]: 5.357 Checksum of IndustrialRevolution3Assets2: 0
+INFO:server:logger:Tue Apr 18 12:37:21 2023:[ Server ]: 5.357 Checksum of IndustrialRevolution3Assets3: 0
+INFO:server:logger:Tue Apr 18 12:37:21 2023:[ Server ]: 5.357 Checksum of IndustrialRevolution3Assets4: 0
+INFO:server:logger:Tue Apr 18 12:37:21 2023:[ Server ]: 5.357 Checksum of IndustrialRevolution3: 1308095867
+INFO:server:logger:Tue Apr 18 12:37:21 2023:[ Server ]: 5.357 Checksum of IndustrialRevolution_Language_Pack: 0
+INFO:server:logger:Tue Apr 18 12:37:22 2023:[ Server ]: 6.206 Prototype list checksum: 83389984
+INFO:server:logger:Tue Apr 18 12:37:23 2023:[ Server ]: 6.426 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1681821261
+INFO:server:logger:Tue Apr 18 12:37:23 2023:[ Server ]: 6.426 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+INFO:server:logger:Tue Apr 18 12:37:23 2023:[ Server ]: 6.447 Factorio initialised
+INFO:server:logger:Tue Apr 18 12:37:23 2023:[ Server ]: 6.448 Info ServerSynchronizer.cpp:29: nextHeartbeatSequenceNumber(0) initialized Synchronizer nextTickClosureTick(0).
+INFO:server:logger:Tue Apr 18 12:37:23 2023:[ Server ]: 6.448 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(Ready) to(PreparedToHostGame)
+INFO:server:logger:Tue Apr 18 12:37:23 2023:[ Server ]: 6.448 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(PreparedToHostGame) to(CreatingGame)
+INFO:server:logger:Tue Apr 18 12:37:23 2023:[ Server ]: 6.461 Loading map /home/factorio_handler/server/saves/sss.zip: 3340419 bytes.
+INFO:server:logger:Tue Apr 18 12:37:23 2023:[ Server ]: 6.543 Loading level.dat: 8697897 bytes.
+INFO:server:logger:Tue Apr 18 12:37:23 2023:[ Server ]: 6.565 Info Scenario.cpp:199: Map version 1.1.80-0
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.404 Loading script.dat: 2394 bytes.
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.414 Checksum for script /home/factorio_handler/server/temp/currently-playing/control.lua: 2881393120
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.517 Checksum for script __IndustrialRevolution3__/control.lua: 3904640006
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.538 Info UDPSocket.cpp:27: Opening socket at (IP ADDR:({0.0.0.0:34197}))
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.539 Hosting game at IP ADDR:({0.0.0.0:34197})
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.539 Info HttpSharedState.cpp:54: Downloading https://auth.factorio.com/generate-server-padlock-2?api_version=5
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.629 Info AuthServerConnector.cpp:79: Obtained serverPadlock for serverHash (r1qJMCgLjvTQUJpm4EOd9edUsftGdHLB) from the auth server.
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.629 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(CreatingGame) to(InGame)
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.633 Info ServerRouter.cpp:650: Asking pingpong servers (pingpong1.factorio.com:34197, pingpong2.factorio.com:34197, pingpong3.factorio.com:34197, pingpong4.factorio.com:34197) for own address
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.633 Info CommandLineMultiplayer.cpp:292: Maximum segment size = 100; minimum segment size = 25; maximum-segment-size peer count = 10; minimum-segment-size peer count = 20
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.667 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong3)
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.733 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong2)
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.745 Info MatchingServer.cpp:114: Matching server game `14990808` has been created.
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.750 Info ServerMultiplayerManager.cpp:727: Matching server connection resumed
+INFO:server:logger:Tue Apr 18 12:37:24 2023:[ Server ]: 7.784 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong4)
+INFO:server:logger:Tue Apr 18 12:37:39 2023:[ Server ]: 22.510 Received SIGINT, shutting down
+INFO:server:logger:Tue Apr 18 12:37:39 2023:[ Server ]: 22.510 Quitting: signal.
+INFO:server:logger:Tue Apr 18 12:37:39 2023:[ Server ]: 22.510 Info MainLoop.cpp:417: Saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 12:37:39 2023:[ Server ]: 22.717 Info MainLoop.cpp:428: Saving progress: 0.039968%
+INFO:server:logger:Tue Apr 18 12:37:39 2023:[ Server ]: 22.935 Info MainLoop.cpp:428: Saving progress: 100.000000%
+INFO:server:logger:Tue Apr 18 12:37:39 2023:[ Server ]: 23.305 Info ServerMultiplayerManager.cpp:114: Disconnecting multiplayer connection.
+INFO:server:logger:Tue Apr 18 12:37:39 2023:[ Server ]: 23.306 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(InGame) to(DisconnectingScheduled)
+INFO:server:logger:Tue Apr 18 12:37:39 2023:[ Server ]: 23.339 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(DisconnectingScheduled) to(Disconnecting)
+INFO:server:logger:Tue Apr 18 12:37:39 2023:[ Server ]: 23.373 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(Disconnecting) to(Disconnected)
+INFO:server:logger:Tue Apr 18 12:37:39 2023:[ Server ]: 23.373 Info ServerMultiplayerManager.cpp:141: Quitting multiplayer connection.
+INFO:server:logger:Tue Apr 18 12:37:39 2023:[ Server ]: 23.373 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(Disconnected) to(Closed)
+INFO:server:logger:Tue Apr 18 12:37:40 2023:[ Server ]: 23.577 Info HttpSharedState.cpp:54: Downloading https://multiplayer.factorio.com/remove-game/14990808
+INFO:server:logger:Tue Apr 18 12:37:40 2023:[ Server ]: 23.711 Info UDPSocket.cpp:218: Closing socket
+INFO:server:logger:Tue Apr 18 12:37:40 2023:[ Server ]: 23.711 Info UDPSocket.cpp:248: Socket closed
+INFO:server:logger:Tue Apr 18 12:37:40 2023:[ Server ]: 23.889 Goodbye
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.000 2023-04-18 12:45:34; Factorio 1.1.80 (build 60618, linux64, headless)
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.113 Operating system: Linux (Ubuntu 20.04)
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.113 Program arguments: "/home/factorio_handler/server/bin/x64/factorio" "--start-server" "/home/factorio_handler/server/saves/sss.zip" "--server-settings" "/home/factorio_handler/server/config/server-settings.json" "--port" "34197" 
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.113 Config path: /home/factorio_handler/server/config/config.ini
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.113 Read data path: /home/factorio_handler/server/data
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.113 Write data path: /home/factorio_handler/server [13452/23905MB]
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.113 Binaries path: /home/factorio_handler/server/bin
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.132 System info: [CPU: Intel Core Processor (Broadwell, no TSX, IBRS), 1 core, RAM: 976 MB]
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.133 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.133 Running in headless mode
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.281 Loading mod settings IndustrialRevolution3 3.0.16 (settings.lua)
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.287 Loading mod settings IndustrialRevolution3 3.0.16 (settings-updates.lua)
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.289 Loading mod core 0.0.0 (data.lua)
+INFO:server:logger:Tue Apr 18 12:45:34 2023:[ Server ]: 0.368 Loading mod base 1.1.80 (data.lua)
+INFO:server:logger:Tue Apr 18 12:45:35 2023:[ Server ]: 1.010 Loading mod IndustrialRevolution3 3.0.16 (data.lua)
+INFO:server:logger:Tue Apr 18 12:45:36 2023:[ Server ]: 1.639 Loading mod base 1.1.80 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 12:45:36 2023:[ Server ]: 1.754 Loading mod IndustrialRevolution3 3.0.16 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 12:45:36 2023:[ Server ]: 2.081 Loading mod IndustrialRevolution3 3.0.16 (data-final-fixes.lua)
+INFO:server:logger:Tue Apr 18 12:45:40 2023:[ Server ]: 5.627 Checksum for core: 3955387189
+INFO:server:logger:Tue Apr 18 12:45:40 2023:[ Server ]: 5.628 Checksum of base: 434889501
+INFO:server:logger:Tue Apr 18 12:45:40 2023:[ Server ]: 5.628 Checksum of IndustrialRevolution3Assets1: 0
+INFO:server:logger:Tue Apr 18 12:45:40 2023:[ Server ]: 5.628 Checksum of IndustrialRevolution3Assets2: 0
+INFO:server:logger:Tue Apr 18 12:45:40 2023:[ Server ]: 5.628 Checksum of IndustrialRevolution3Assets3: 0
+INFO:server:logger:Tue Apr 18 12:45:40 2023:[ Server ]: 5.628 Checksum of IndustrialRevolution3Assets4: 0
+INFO:server:logger:Tue Apr 18 12:45:40 2023:[ Server ]: 5.629 Checksum of IndustrialRevolution3: 1308095867
+INFO:server:logger:Tue Apr 18 12:45:40 2023:[ Server ]: 5.629 Checksum of IndustrialRevolution_Language_Pack: 0
+INFO:server:logger:Tue Apr 18 12:45:41 2023:[ Server ]: 6.639 Prototype list checksum: 83389984
+INFO:server:logger:Tue Apr 18 12:45:41 2023:[ Server ]: 6.852 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1681821460
+INFO:server:logger:Tue Apr 18 12:45:41 2023:[ Server ]: 6.852 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+INFO:server:logger:Tue Apr 18 12:45:41 2023:[ Server ]: 6.866 Factorio initialised
+INFO:server:logger:Tue Apr 18 12:45:41 2023:[ Server ]: 6.867 Info ServerSynchronizer.cpp:29: nextHeartbeatSequenceNumber(0) initialized Synchronizer nextTickClosureTick(0).
+INFO:server:logger:Tue Apr 18 12:45:41 2023:[ Server ]: 6.868 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(Ready) to(PreparedToHostGame)
+INFO:server:logger:Tue Apr 18 12:45:41 2023:[ Server ]: 6.868 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(PreparedToHostGame) to(CreatingGame)
+INFO:server:logger:Tue Apr 18 12:45:41 2023:[ Server ]: 6.877 Loading map /home/factorio_handler/server/saves/sss.zip: 3340419 bytes.
+INFO:server:logger:Tue Apr 18 12:45:41 2023:[ Server ]: 6.961 Loading level.dat: 8697897 bytes.
+INFO:server:logger:Tue Apr 18 12:45:41 2023:[ Server ]: 6.979 Info Scenario.cpp:199: Map version 1.1.80-0
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 7.969 Loading script.dat: 2394 bytes.
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 7.987 Checksum for script /home/factorio_handler/server/temp/currently-playing/control.lua: 2881393120
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.079 Checksum for script __IndustrialRevolution3__/control.lua: 3904640006
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.133 Info UDPSocket.cpp:27: Opening socket at (IP ADDR:({0.0.0.0:34197}))
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.134 Hosting game at IP ADDR:({0.0.0.0:34197})
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.134 Info HttpSharedState.cpp:54: Downloading https://auth.factorio.com/generate-server-padlock-2?api_version=5
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.232 Info AuthServerConnector.cpp:79: Obtained serverPadlock for serverHash (5Z0TxSKmqufRlp3JTN7VMCjK3CdaIaHb) from the auth server.
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.233 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(CreatingGame) to(InGame)
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.262 Info ServerRouter.cpp:650: Asking pingpong servers (pingpong1.factorio.com:34197, pingpong2.factorio.com:34197, pingpong3.factorio.com:34197, pingpong4.factorio.com:34197) for own address
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.262 Info CommandLineMultiplayer.cpp:292: Maximum segment size = 100; minimum segment size = 25; maximum-segment-size peer count = 10; minimum-segment-size peer count = 20
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.296 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong3)
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.362 Info MatchingServer.cpp:114: Matching server game `14990845` has been created.
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.363 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong2)
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.363 Info ServerMultiplayerManager.cpp:727: Matching server connection resumed
+INFO:server:logger:Tue Apr 18 12:45:42 2023:[ Server ]: 8.413 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong4)
+INFO:server:logger:Tue Apr 18 12:47:14 2023:[ Server ]: 99.791 Received SIGINT, shutting down
+INFO:server:logger:Tue Apr 18 12:47:14 2023:[ Server ]: 99.791 Quitting: signal.
+INFO:server:logger:Tue Apr 18 12:47:14 2023:[ Server ]: 99.791 Info MainLoop.cpp:417: Saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 12:47:14 2023:[ Server ]: 100.163 Info MainLoop.cpp:428: Saving progress: 0.039968%
+INFO:server:logger:Tue Apr 18 12:47:14 2023:[ Server ]: 100.369 Info MainLoop.cpp:428: Saving progress: 100.000000%
+INFO:server:logger:Tue Apr 18 12:47:15 2023:[ Server ]: 100.812 Info ServerMultiplayerManager.cpp:114: Disconnecting multiplayer connection.
+INFO:server:logger:Tue Apr 18 12:47:15 2023:[ Server ]: 100.812 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(InGame) to(DisconnectingScheduled)
+INFO:server:logger:Tue Apr 18 12:47:15 2023:[ Server ]: 100.845 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(DisconnectingScheduled) to(Disconnecting)
+INFO:server:logger:Tue Apr 18 12:47:15 2023:[ Server ]: 100.879 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(Disconnecting) to(Disconnected)
+INFO:server:logger:Tue Apr 18 12:47:15 2023:[ Server ]: 100.879 Info ServerMultiplayerManager.cpp:141: Quitting multiplayer connection.
+INFO:server:logger:Tue Apr 18 12:47:15 2023:[ Server ]: 100.879 Info ServerMultiplayerManager.cpp:795: updateTick(163727) changing state from(Disconnected) to(Closed)
+INFO:server:logger:Tue Apr 18 12:47:15 2023:[ Server ]: 101.200 Info HttpSharedState.cpp:54: Downloading https://multiplayer.factorio.com/remove-game/14990845
+INFO:server:logger:Tue Apr 18 12:47:15 2023:[ Server ]: 101.354 Info UDPSocket.cpp:218: Closing socket
+INFO:server:logger:Tue Apr 18 12:47:15 2023:[ Server ]: 101.354 Info UDPSocket.cpp:248: Socket closed
+INFO:server:logger:Tue Apr 18 12:47:16 2023:[ Server ]: 101.730 Goodbye
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.000 2023-04-18 13:06:39; Factorio 1.1.80 (build 60618, linux64, headless)
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.114 Operating system: Linux (Ubuntu 20.04)
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.114 Program arguments: "/home/factorio_handler/server/bin/x64/factorio" "--start-server" "/home/factorio_handler/server/saves/sss.zip" "--server-settings" "/home/factorio_handler/server/config/server-settings.json" "--port" "34197" 
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.114 Config path: /home/factorio_handler/server/config/config.ini
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.115 Read data path: /home/factorio_handler/server/data
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.115 Write data path: /home/factorio_handler/server [13447/23905MB]
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.115 Binaries path: /home/factorio_handler/server/bin
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.129 System info: [CPU: Intel Core Processor (Broadwell, no TSX, IBRS), 1 core, RAM: 976 MB]
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.131 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.131 Running in headless mode
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.316 Loading mod settings IndustrialRevolution3 3.0.16 (settings.lua)
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.320 Loading mod settings IndustrialRevolution3 3.0.16 (settings-updates.lua)
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.325 Loading mod core 0.0.0 (data.lua)
+INFO:server:logger:Tue Apr 18 13:06:39 2023:[ Server ]: 0.414 Loading mod base 1.1.80 (data.lua)
+INFO:server:logger:Tue Apr 18 13:06:40 2023:[ Server ]: 1.054 Loading mod IndustrialRevolution3 3.0.16 (data.lua)
+INFO:server:logger:Tue Apr 18 13:06:40 2023:[ Server ]: 1.557 Loading mod base 1.1.80 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 13:06:40 2023:[ Server ]: 1.652 Loading mod IndustrialRevolution3 3.0.16 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 13:06:40 2023:[ Server ]: 1.888 Loading mod IndustrialRevolution3 3.0.16 (data-final-fixes.lua)
+INFO:server:logger:Tue Apr 18 13:06:44 2023:[ Server ]: 5.251 Checksum for core: 3955387189
+INFO:server:logger:Tue Apr 18 13:06:44 2023:[ Server ]: 5.255 Checksum of base: 434889501
+INFO:server:logger:Tue Apr 18 13:06:44 2023:[ Server ]: 5.255 Checksum of IndustrialRevolution3Assets1: 0
+INFO:server:logger:Tue Apr 18 13:06:44 2023:[ Server ]: 5.255 Checksum of IndustrialRevolution3Assets2: 0
+INFO:server:logger:Tue Apr 18 13:06:44 2023:[ Server ]: 5.255 Checksum of IndustrialRevolution3Assets3: 0
+INFO:server:logger:Tue Apr 18 13:06:44 2023:[ Server ]: 5.255 Checksum of IndustrialRevolution3Assets4: 0
+INFO:server:logger:Tue Apr 18 13:06:44 2023:[ Server ]: 5.255 Checksum of IndustrialRevolution3: 1308095867
+INFO:server:logger:Tue Apr 18 13:06:44 2023:[ Server ]: 5.255 Checksum of IndustrialRevolution_Language_Pack: 0
+INFO:server:logger:Tue Apr 18 13:06:45 2023:[ Server ]: 6.187 Prototype list checksum: 83389984
+INFO:server:logger:Tue Apr 18 13:06:45 2023:[ Server ]: 6.389 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1681822035
+INFO:server:logger:Tue Apr 18 13:06:45 2023:[ Server ]: 6.389 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+INFO:server:logger:Tue Apr 18 13:06:45 2023:[ Server ]: 6.401 Factorio initialised
+INFO:server:logger:Tue Apr 18 13:06:45 2023:[ Server ]: 6.402 Info ServerSynchronizer.cpp:29: nextHeartbeatSequenceNumber(0) initialized Synchronizer nextTickClosureTick(0).
+INFO:server:logger:Tue Apr 18 13:06:45 2023:[ Server ]: 6.402 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(Ready) to(PreparedToHostGame)
+INFO:server:logger:Tue Apr 18 13:06:45 2023:[ Server ]: 6.402 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(PreparedToHostGame) to(CreatingGame)
+INFO:server:logger:Tue Apr 18 13:06:45 2023:[ Server ]: 6.412 Loading map /home/factorio_handler/server/saves/sss.zip: 3340462 bytes.
+INFO:server:logger:Tue Apr 18 13:06:45 2023:[ Server ]: 6.477 Loading level.dat: 8702754 bytes.
+INFO:server:logger:Tue Apr 18 13:06:45 2023:[ Server ]: 6.495 Info Scenario.cpp:199: Map version 1.1.80-0
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.268 Loading script.dat: 2275 bytes.
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.279 Checksum for script /home/factorio_handler/server/temp/currently-playing/control.lua: 2881393120
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.350 Checksum for script __IndustrialRevolution3__/control.lua: 3904640006
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.379 Info UDPSocket.cpp:27: Opening socket at (IP ADDR:({0.0.0.0:34197}))
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.380 Hosting game at IP ADDR:({0.0.0.0:34197})
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.380 Info HttpSharedState.cpp:54: Downloading https://auth.factorio.com/generate-server-padlock-2?api_version=5
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.466 Info AuthServerConnector.cpp:79: Obtained serverPadlock for serverHash (hvXPLelxTl8PN1qXLUGaXTR0o3fP3Bc3) from the auth server.
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.466 Info ServerMultiplayerManager.cpp:795: updateTick(165726) changing state from(CreatingGame) to(InGame)
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.493 Info ServerRouter.cpp:650: Asking pingpong servers (pingpong1.factorio.com:34197, pingpong2.factorio.com:34197, pingpong3.factorio.com:34197, pingpong4.factorio.com:34197) for own address
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.494 Info CommandLineMultiplayer.cpp:292: Maximum segment size = 100; minimum segment size = 25; maximum-segment-size peer count = 10; minimum-segment-size peer count = 20
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.527 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong3)
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.587 Info MatchingServer.cpp:114: Matching server game `14990944` has been created.
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.594 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong2)
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.594 Info ServerMultiplayerManager.cpp:727: Matching server connection resumed
+INFO:server:logger:Tue Apr 18 13:06:46 2023:[ Server ]: 7.644 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong4)
+INFO:server:logger:Tue Apr 18 13:09:02 2023:[ Server ]: 143.411 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:57073}))
+INFO:server:logger:Tue Apr 18 13:09:02 2023:[ Server ]: 143.413 Refusing connection for address (IP ADDR:({153.33.108.186:57073})), username (Yuki_Hiroshi). UserVerificationMissing
+INFO:server:logger:Tue Apr 18 13:09:02 2023:[ Server ]: 143.677 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:58646}))
+INFO:server:logger:Tue Apr 18 13:09:02 2023:[ Server ]: 143.678 Refusing connection for address (IP ADDR:({153.33.108.186:58646})), username (Yuki_Hiroshi). PasswordMissing
+INFO:server:logger:Tue Apr 18 13:09:31 2023:[ Server ]: 172.511 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:58649}))
+INFO:server:logger:Tue Apr 18 13:09:31 2023:[ Server ]: 172.512 Refusing connection for address (IP ADDR:({153.33.108.186:58649})), username (Yuki_Hiroshi). PasswordMismatch
+INFO:server:logger:Tue Apr 18 13:10:31 2023:[ Server ]: 232.377 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:53363}))
+INFO:server:logger:Tue Apr 18 13:10:31 2023:[ Server ]: 232.378 Refusing connection for address (IP ADDR:({153.33.108.186:53363})), username (Yuki_Hiroshi). UserVerificationMissing
+INFO:server:logger:Tue Apr 18 13:10:31 2023:[ Server ]: 232.594 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:53364}))
+INFO:server:logger:Tue Apr 18 13:10:31 2023:[ Server ]: 232.595 Refusing connection for address (IP ADDR:({153.33.108.186:53364})), username (Yuki_Hiroshi). PasswordMissing
+INFO:server:logger:Tue Apr 18 13:11:26 2023:[ Server ]: 287.527 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:56049}))
+INFO:server:logger:Tue Apr 18 13:11:26 2023:[ Server ]: 287.529 Info ServerRouter.cpp:451: Replying to connectionRequest for address(IP ADDR:({153.33.108.186:56049})).
+INFO:server:logger:Tue Apr 18 13:11:26 2023:[ Server ]: 287.529 Info ServerSynchronizer.cpp:604: nextHeartbeatSequenceNumber(16801) adding peer(1)
+INFO:server:logger:Tue Apr 18 13:11:26 2023:[ Server ]: 287.547 Info ServerMultiplayerManager.cpp:795: updateTick(165726) changing state from(InGame) to(InGameSavingMap)
+INFO:server:logger:Tue Apr 18 13:11:26 2023:[ Server ]: 287.594 Info ServerMultiplayerManager.cpp:944: updateTick(165726) received stateChanged peerID(1) oldState(Ready) newState(ConnectedWaitingForMap)
+INFO:server:logger:Tue Apr 18 13:11:27 2023:[ Server ]: 288.066 Info ServerMultiplayerManager.cpp:1005: UpdateTick(165726) Serving map(/home/factorio_handler/server/temp/mp-save-0.zip) for peer(1) size(3341230) auxiliary(140) crc(740081035)
+INFO:server:logger:Tue Apr 18 13:11:27 2023:[ Server ]: 288.068 Info ServerMultiplayerManager.cpp:795: updateTick(165726) changing state from(InGameSavingMap) to(InGame)
+INFO:server:logger:Tue Apr 18 13:11:27 2023:[ Server ]: 288.144 Info ServerMultiplayerManager.cpp:944: updateTick(165726) received stateChanged peerID(1) oldState(ConnectedWaitingForMap) newState(ConnectedDownloadingMap)
+INFO:server:logger:Tue Apr 18 13:11:27 2023:[ Server ]: 288.894 Info ServerMultiplayerManager.cpp:944: updateTick(165726) received stateChanged peerID(1) oldState(ConnectedDownloadingMap) newState(ConnectedLoadingMap)
+INFO:server:logger:Tue Apr 18 13:11:28 2023:[ Server ]: 289.027 Info ServerMultiplayerManager.cpp:944: updateTick(165733) received stateChanged peerID(1) oldState(ConnectedLoadingMap) newState(TryingToCatchUp)
+INFO:server:logger:Tue Apr 18 13:11:28 2023:[ Server ]: 289.028 Info ServerMultiplayerManager.cpp:944: updateTick(165733) received stateChanged peerID(1) oldState(TryingToCatchUp) newState(WaitingForCommandToStartSendingTickClosures)
+INFO:server:logger:Tue Apr 18 13:11:28 2023:[ Server ]: 289.029 Info GameActionHandler.cpp:5072: UpdateTick (165733) processed PlayerJoinGame peerID(1) playerIndex(0) mode(connect) 
+INFO:server:logger:Tue Apr 18 13:11:28 2023:[ Server ]: 289.094 Info ServerMultiplayerManager.cpp:944: updateTick(165737) received stateChanged peerID(1) oldState(WaitingForCommandToStartSendingTickClosures) newState(InGame)
+INFO:server:logger:Tue Apr 18 13:11:28 2023:[ Server ]: 2023-04-18 13:11:28 [JOIN] Yuki_Hiroshi joined the game
+INFO:server:logger:Tue Apr 18 13:12:27 2023:[ Server ]: 348.061 Info ServerMultiplayerManager.cpp:1058: Disconnect notification for peer (1)
+INFO:server:logger:Tue Apr 18 13:12:27 2023:[ Server ]: 348.062 Info ServerMultiplayerManager.cpp:944: updateTick(169275) received stateChanged peerID(1) oldState(InGame) newState(DisconnectScheduled)
+INFO:server:logger:Tue Apr 18 13:12:27 2023:[ Server ]: 2023-04-18 13:12:27 [LEAVE] Yuki_Hiroshi left the game
+INFO:server:logger:Tue Apr 18 13:12:27 2023:[ Server ]: 348.063 Info ServerSynchronizer.cpp:623: nextHeartbeatSequenceNumber(20434) removing peer(1).
+INFO:server:logger:Tue Apr 18 13:12:28 2023:[ Server ]: 349.061 Info ServerMultiplayerManager.cpp:1205: Auto saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 13:12:28 2023:[ Server ]: 349.077 Info AppManager.cpp:420: Saving game as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 13:12:28 2023:[ Server ]: 349.595 Info AppManagerStates.cpp:1910: Saving finished
+INFO:server:logger:Tue Apr 18 13:12:46 2023:[ Server ]: 366.961 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:62878}))
+INFO:server:logger:Tue Apr 18 13:12:46 2023:[ Server ]: 366.962 Info ServerRouter.cpp:451: Replying to connectionRequest for address(IP ADDR:({153.33.108.186:62878})).
+INFO:server:logger:Tue Apr 18 13:12:46 2023:[ Server ]: 366.962 Info ServerSynchronizer.cpp:604: nextHeartbeatSequenceNumber(21567) adding peer(2)
+INFO:server:logger:Tue Apr 18 13:12:46 2023:[ Server ]: 366.979 Info ServerMultiplayerManager.cpp:795: updateTick(169276) changing state from(InGame) to(InGameSavingMap)
+INFO:server:logger:Tue Apr 18 13:12:46 2023:[ Server ]: 367.027 Info ServerMultiplayerManager.cpp:944: updateTick(169276) received stateChanged peerID(2) oldState(Ready) newState(ConnectedWaitingForMap)
+INFO:server:logger:Tue Apr 18 13:12:46 2023:[ Server ]: 367.432 Info ServerMultiplayerManager.cpp:1005: UpdateTick(169276) Serving map(/home/factorio_handler/server/temp/mp-save-1.zip) for peer(2) size(3341135) auxiliary(140) crc(2630119147)
+INFO:server:logger:Tue Apr 18 13:12:46 2023:[ Server ]: 367.433 Info ServerMultiplayerManager.cpp:795: updateTick(169276) changing state from(InGameSavingMap) to(InGame)
+INFO:server:logger:Tue Apr 18 13:12:46 2023:[ Server ]: 367.511 Info ServerMultiplayerManager.cpp:944: updateTick(169276) received stateChanged peerID(2) oldState(ConnectedWaitingForMap) newState(ConnectedDownloadingMap)
+INFO:server:logger:Tue Apr 18 13:12:47 2023:[ Server ]: 368.494 Info ServerMultiplayerManager.cpp:944: updateTick(169276) received stateChanged peerID(2) oldState(ConnectedDownloadingMap) newState(ConnectedLoadingMap)
+INFO:server:logger:Tue Apr 18 13:12:47 2023:[ Server ]: 368.611 Info ServerMultiplayerManager.cpp:944: updateTick(169282) received stateChanged peerID(2) oldState(ConnectedLoadingMap) newState(TryingToCatchUp)
+INFO:server:logger:Tue Apr 18 13:12:47 2023:[ Server ]: 368.627 Info ServerMultiplayerManager.cpp:944: updateTick(169283) received stateChanged peerID(2) oldState(TryingToCatchUp) newState(WaitingForCommandToStartSendingTickClosures)
+INFO:server:logger:Tue Apr 18 13:12:47 2023:[ Server ]: 368.628 Info GameActionHandler.cpp:5072: UpdateTick (169283) processed PlayerJoinGame peerID(2) playerIndex(0) mode(connect) 
+INFO:server:logger:Tue Apr 18 13:12:47 2023:[ Server ]: 368.711 Info ServerMultiplayerManager.cpp:944: updateTick(169288) received stateChanged peerID(2) oldState(WaitingForCommandToStartSendingTickClosures) newState(InGame)
+INFO:server:logger:Tue Apr 18 13:12:47 2023:[ Server ]: 2023-04-18 13:12:47 [JOIN] Yuki_Hiroshi joined the game
+INFO:server:logger:Tue Apr 18 13:12:55 2023:[ Server ]: 376.111 Info ServerMultiplayerManager.cpp:1058: Disconnect notification for peer (2)
+INFO:server:logger:Tue Apr 18 13:12:55 2023:[ Server ]: 376.111 Info ServerMultiplayerManager.cpp:944: updateTick(169732) received stateChanged peerID(2) oldState(InGame) newState(DisconnectScheduled)
+INFO:server:logger:Tue Apr 18 13:12:55 2023:[ Server ]: 2023-04-18 13:12:55 [LEAVE] Yuki_Hiroshi left the game
+INFO:server:logger:Tue Apr 18 13:12:55 2023:[ Server ]: 376.112 Info ServerSynchronizer.cpp:623: nextHeartbeatSequenceNumber(22117) removing peer(2).
+INFO:server:logger:Tue Apr 18 13:12:56 2023:[ Server ]: 377.111 Info ServerMultiplayerManager.cpp:1205: Auto saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 13:12:56 2023:[ Server ]: 377.127 Info AppManager.cpp:420: Saving game as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 13:12:56 2023:[ Server ]: 377.394 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:51164}))
+INFO:server:logger:Tue Apr 18 13:12:56 2023:[ Server ]: 377.394 Info ServerRouter.cpp:451: Replying to connectionRequest for address(IP ADDR:({153.33.108.186:51164})).
+INFO:server:logger:Tue Apr 18 13:12:56 2023:[ Server ]: 377.394 Info ServerSynchronizer.cpp:604: nextHeartbeatSequenceNumber(22193) adding peer(3)
+INFO:server:logger:Tue Apr 18 13:12:56 2023:[ Server ]: 377.413 Info ServerMultiplayerManager.cpp:795: updateTick(169733) changing state from(InGame) to(InGameSavingMap)
+INFO:server:logger:Tue Apr 18 13:12:56 2023:[ Server ]: 377.461 Info ServerMultiplayerManager.cpp:944: updateTick(169733) received stateChanged peerID(3) oldState(Ready) newState(ConnectedWaitingForMap)
+INFO:server:logger:Tue Apr 18 13:12:56 2023:[ Server ]: 377.644 Info AppManagerStates.cpp:1910: Saving finished
+INFO:server:logger:Tue Apr 18 13:12:57 2023:[ Server ]: 378.129 Info ServerMultiplayerManager.cpp:795: updateTick(169733) changing state from(InGameSavingMap) to(InGame)
+INFO:server:logger:Tue Apr 18 13:13:50 2023:[ Server ]: 431.839 Received SIGINT, shutting down
+INFO:server:logger:Tue Apr 18 13:13:50 2023:[ Server ]: 431.840 Quitting: signal.
+INFO:server:logger:Tue Apr 18 13:13:50 2023:[ Server ]: 431.840 Info MainLoop.cpp:417: Saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 13:13:51 2023:[ Server ]: 432.117 Info MainLoop.cpp:428: Saving progress: 0.039952%
+INFO:server:logger:Tue Apr 18 13:13:51 2023:[ Server ]: 432.332 Info MainLoop.cpp:428: Saving progress: 100.000000%
+INFO:server:logger:Tue Apr 18 13:13:51 2023:[ Server ]: 432.642 Info ServerMultiplayerManager.cpp:114: Disconnecting multiplayer connection.
+INFO:server:logger:Tue Apr 18 13:13:51 2023:[ Server ]: 432.642 Info ServerMultiplayerManager.cpp:795: updateTick(169733) changing state from(InGame) to(DisconnectingScheduled)
+INFO:server:logger:Tue Apr 18 13:13:51 2023:[ Server ]: 432.675 Info ServerMultiplayerManager.cpp:795: updateTick(169733) changing state from(DisconnectingScheduled) to(Disconnecting)
+INFO:server:logger:Tue Apr 18 13:13:55 2023:[ Server ]: 435.917 Info ServerMultiplayerManager.cpp:795: updateTick(169733) changing state from(Disconnecting) to(Disconnected)
+INFO:server:logger:Tue Apr 18 13:13:55 2023:[ Server ]: 435.917 Info ServerMultiplayerManager.cpp:141: Quitting multiplayer connection.
+INFO:server:logger:Tue Apr 18 13:13:55 2023:[ Server ]: 435.917 Info ServerMultiplayerManager.cpp:795: updateTick(169733) changing state from(Disconnected) to(Closed)
+INFO:server:logger:Tue Apr 18 13:13:55 2023:[ Server ]: 436.178 Info HttpSharedState.cpp:54: Downloading https://multiplayer.factorio.com/remove-game/14990944
+INFO:server:logger:Tue Apr 18 13:13:55 2023:[ Server ]: 436.299 Info UDPSocket.cpp:218: Closing socket
+INFO:server:logger:Tue Apr 18 13:13:55 2023:[ Server ]: 436.299 Info UDPSocket.cpp:248: Socket closed
+INFO:server:logger:Tue Apr 18 13:13:55 2023:[ Server ]: 436.569 Goodbye
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.000 2023-04-18 13:14:34; Factorio 1.1.80 (build 60618, linux64, headless)
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.098 Operating system: Linux (Ubuntu 20.04)
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.098 Program arguments: "/home/factorio_handler/server/bin/x64/factorio" "--start-server" "/home/factorio_handler/server/saves/sss.zip" "--server-settings" "/home/factorio_handler/server/config/server-settings.json" "--port" "34197" 
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.098 Config path: /home/factorio_handler/server/config/config.ini
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.098 Read data path: /home/factorio_handler/server/data
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.098 Write data path: /home/factorio_handler/server [13450/23905MB]
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.098 Binaries path: /home/factorio_handler/server/bin
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.109 System info: [CPU: Intel Core Processor (Broadwell, no TSX, IBRS), 1 core, RAM: 976 MB]
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.112 Environment: DISPLAY=<unset> WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=<unset> XDG_SESSION_DESKTOP=<unset> XDG_CURRENT_DESKTOP=<unset> __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.112 Running in headless mode
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.261 Loading mod settings IndustrialRevolution3 3.0.16 (settings.lua)
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.270 Loading mod settings IndustrialRevolution3 3.0.16 (settings-updates.lua)
+INFO:server:logger:Tue Apr 18 13:14:34 2023:[ Server ]: 0.272 Loading mod core 0.0.0 (data.lua)
+INFO:server:logger:Tue Apr 18 13:14:35 2023:[ Server ]: 0.343 Loading mod base 1.1.80 (data.lua)
+INFO:server:logger:Tue Apr 18 13:14:35 2023:[ Server ]: 0.954 Loading mod IndustrialRevolution3 3.0.16 (data.lua)
+INFO:server:logger:Tue Apr 18 13:14:36 2023:[ Server ]: 1.560 Loading mod base 1.1.80 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 13:14:36 2023:[ Server ]: 1.663 Loading mod IndustrialRevolution3 3.0.16 (data-updates.lua)
+INFO:server:logger:Tue Apr 18 13:14:36 2023:[ Server ]: 1.917 Loading mod IndustrialRevolution3 3.0.16 (data-final-fixes.lua)
+INFO:server:logger:Tue Apr 18 13:14:40 2023:[ Server ]: 5.310 Checksum for core: 3955387189
+INFO:server:logger:Tue Apr 18 13:14:40 2023:[ Server ]: 5.315 Checksum of base: 434889501
+INFO:server:logger:Tue Apr 18 13:14:40 2023:[ Server ]: 5.315 Checksum of IndustrialRevolution3Assets1: 0
+INFO:server:logger:Tue Apr 18 13:14:40 2023:[ Server ]: 5.315 Checksum of IndustrialRevolution3Assets2: 0
+INFO:server:logger:Tue Apr 18 13:14:40 2023:[ Server ]: 5.315 Checksum of IndustrialRevolution3Assets3: 0
+INFO:server:logger:Tue Apr 18 13:14:40 2023:[ Server ]: 5.315 Checksum of IndustrialRevolution3Assets4: 0
+INFO:server:logger:Tue Apr 18 13:14:40 2023:[ Server ]: 5.315 Checksum of IndustrialRevolution3: 1308095867
+INFO:server:logger:Tue Apr 18 13:14:40 2023:[ Server ]: 5.315 Checksum of IndustrialRevolution_Language_Pack: 0
+INFO:server:logger:Tue Apr 18 13:14:40 2023:[ Server ]: 6.298 Prototype list checksum: 83389984
+INFO:server:logger:Tue Apr 18 13:14:41 2023:[ Server ]: 6.509 Info PlayerData.cpp:71: Local player-data.json available, timestamp 1681823635
+INFO:server:logger:Tue Apr 18 13:14:41 2023:[ Server ]: 6.512 Info PlayerData.cpp:78: Cloud player-data.json unavailable
+INFO:server:logger:Tue Apr 18 13:14:41 2023:[ Server ]: 6.522 Factorio initialised
+INFO:server:logger:Tue Apr 18 13:14:41 2023:[ Server ]: 6.523 Info ServerSynchronizer.cpp:29: nextHeartbeatSequenceNumber(0) initialized Synchronizer nextTickClosureTick(0).
+INFO:server:logger:Tue Apr 18 13:14:41 2023:[ Server ]: 6.523 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(Ready) to(PreparedToHostGame)
+INFO:server:logger:Tue Apr 18 13:14:41 2023:[ Server ]: 6.523 Info ServerMultiplayerManager.cpp:795: updateTick(4294967295) changing state from(PreparedToHostGame) to(CreatingGame)
+INFO:server:logger:Tue Apr 18 13:14:41 2023:[ Server ]: 6.532 Loading map /home/factorio_handler/server/saves/sss.zip: 4465970 bytes.
+INFO:server:logger:Tue Apr 18 13:14:41 2023:[ Server ]: 6.594 Loading level.dat: 11792928 bytes.
+INFO:server:logger:Tue Apr 18 13:14:41 2023:[ Server ]: 6.612 Info Scenario.cpp:199: Map version 1.1.76-0
+INFO:server:logger:Tue Apr 18 13:14:42 2023:[ Server ]: 8.192 Loading script.dat: 2264 bytes.
+INFO:server:logger:Tue Apr 18 13:14:42 2023:[ Server ]: 8.204 Checksum for script /home/factorio_handler/server/temp/currently-playing/control.lua: 2881393120
+INFO:server:logger:Tue Apr 18 13:14:42 2023:[ Server ]: 8.273 Checksum for script __IndustrialRevolution3__/control.lua: 3904640006
+INFO:server:logger:Tue Apr 18 13:14:42 2023:[ Server ]: 8.296 Info UDPSocket.cpp:27: Opening socket at (IP ADDR:({0.0.0.0:34197}))
+INFO:server:logger:Tue Apr 18 13:14:42 2023:[ Server ]: 8.296 Hosting game at IP ADDR:({0.0.0.0:34197})
+INFO:server:logger:Tue Apr 18 13:14:42 2023:[ Server ]: 8.296 Info HttpSharedState.cpp:54: Downloading https://auth.factorio.com/generate-server-padlock-2?api_version=5
+INFO:server:logger:Tue Apr 18 13:14:43 2023:[ Server ]: 8.384 Info AuthServerConnector.cpp:79: Obtained serverPadlock for serverHash (Heu7VdzkpGBofmInyzCGG4D11yeZ6XmJ) from the auth server.
+INFO:server:logger:Tue Apr 18 13:14:43 2023:[ Server ]: 8.384 Info ServerMultiplayerManager.cpp:795: updateTick(715258) changing state from(CreatingGame) to(InGame)
+INFO:server:logger:Tue Apr 18 13:14:43 2023:[ Server ]: 8.411 Info ServerRouter.cpp:650: Asking pingpong servers (pingpong1.factorio.com:34197, pingpong2.factorio.com:34197, pingpong3.factorio.com:34197, pingpong4.factorio.com:34197) for own address
+INFO:server:logger:Tue Apr 18 13:14:43 2023:[ Server ]: 8.411 Info CommandLineMultiplayer.cpp:292: Maximum segment size = 100; minimum segment size = 25; maximum-segment-size peer count = 10; minimum-segment-size peer count = 20
+INFO:server:logger:Tue Apr 18 13:14:43 2023:[ Server ]: 8.445 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong3)
+INFO:server:logger:Tue Apr 18 13:14:43 2023:[ Server ]: 8.511 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong2)
+INFO:server:logger:Tue Apr 18 13:14:43 2023:[ Server ]: 8.513 Info MatchingServer.cpp:114: Matching server game `14990979` has been created.
+INFO:server:logger:Tue Apr 18 13:14:43 2023:[ Server ]: 8.528 Info ServerMultiplayerManager.cpp:727: Matching server connection resumed
+INFO:server:logger:Tue Apr 18 13:14:43 2023:[ Server ]: 8.561 Info ServerRouter.cpp:533: Own address is IP ADDR:({66.135.10.52:34197}) (confirmed by pingpong4)
+INFO:server:logger:Tue Apr 18 13:14:46 2023:[ Server ]: 11.678 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:51216}))
+INFO:server:logger:Tue Apr 18 13:14:46 2023:[ Server ]: 11.680 Info ServerRouter.cpp:616: Generated hmac(xJU47kYJ5F8lCLrOpetgQA==) and serverKey(DKEAMMdaU+LSmQ+CRg9fXA==) for username(Yuki_Hiroshi) differ. Generated from message(Yuki_Hiroshi_DZ7HtHIrAeLyJ/gOob602qxJqCx2YpSq2a2WQuy2alc=_230418131031).
+INFO:server:logger:Tue Apr 18 13:14:46 2023:[ Server ]: 11.680 Refusing connection for address (IP ADDR:({153.33.108.186:51216})), username (Yuki_Hiroshi). UserVerificationMismatch
+INFO:server:logger:Tue Apr 18 13:14:46 2023:[ Server ]: 11.928 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:51031}))
+INFO:server:logger:Tue Apr 18 13:14:46 2023:[ Server ]: 11.928 Info ServerRouter.cpp:451: Replying to connectionRequest for address(IP ADDR:({153.33.108.186:51031})).
+INFO:server:logger:Tue Apr 18 13:14:46 2023:[ Server ]: 11.929 Info ServerSynchronizer.cpp:604: nextHeartbeatSequenceNumber(210) adding peer(1)
+INFO:server:logger:Tue Apr 18 13:14:46 2023:[ Server ]: 11.945 Info ServerMultiplayerManager.cpp:795: updateTick(715258) changing state from(InGame) to(InGameSavingMap)
+INFO:server:logger:Tue Apr 18 13:14:46 2023:[ Server ]: 11.994 Info ServerMultiplayerManager.cpp:944: updateTick(715258) received stateChanged peerID(1) oldState(Ready) newState(ConnectedWaitingForMap)
+INFO:server:logger:Tue Apr 18 13:14:47 2023:[ Server ]: 12.521 Info ServerMultiplayerManager.cpp:1005: UpdateTick(715258) Serving map(/home/factorio_handler/server/temp/mp-save-0.zip) for peer(1) size(4136339) auxiliary(140) crc(2124947326)
+INFO:server:logger:Tue Apr 18 13:14:47 2023:[ Server ]: 12.521 Info ServerMultiplayerManager.cpp:795: updateTick(715258) changing state from(InGameSavingMap) to(InGame)
+INFO:server:logger:Tue Apr 18 13:14:47 2023:[ Server ]: 12.594 Info ServerMultiplayerManager.cpp:944: updateTick(715258) received stateChanged peerID(1) oldState(ConnectedWaitingForMap) newState(ConnectedDownloadingMap)
+INFO:server:logger:Tue Apr 18 13:14:47 2023:[ Server ]: 13.228 Info ServerMultiplayerManager.cpp:944: updateTick(715258) received stateChanged peerID(1) oldState(ConnectedDownloadingMap) newState(ConnectedLoadingMap)
+INFO:server:logger:Tue Apr 18 13:14:48 2023:[ Server ]: 13.378 Info ServerMultiplayerManager.cpp:944: updateTick(715266) received stateChanged peerID(1) oldState(ConnectedLoadingMap) newState(TryingToCatchUp)
+INFO:server:logger:Tue Apr 18 13:14:48 2023:[ Server ]: 13.394 Info ServerMultiplayerManager.cpp:944: updateTick(715267) received stateChanged peerID(1) oldState(TryingToCatchUp) newState(WaitingForCommandToStartSendingTickClosures)
+INFO:server:logger:Tue Apr 18 13:14:48 2023:[ Server ]: 13.395 Info GameActionHandler.cpp:5072: UpdateTick (715267) processed PlayerJoinGame peerID(1) playerIndex(0) mode(connect) 
+INFO:server:logger:Tue Apr 18 13:14:48 2023:[ Server ]: 13.478 Info ServerMultiplayerManager.cpp:944: updateTick(715272) received stateChanged peerID(1) oldState(WaitingForCommandToStartSendingTickClosures) newState(InGame)
+INFO:server:logger:Tue Apr 18 13:14:48 2023:[ Server ]: 2023-04-18 13:14:48 [JOIN] Yuki_Hiroshi joined the game
+INFO:server:logger:Tue Apr 18 13:15:24 2023:[ Server ]: 49.661 Info ServerMultiplayerManager.cpp:1058: Disconnect notification for peer (1)
+INFO:server:logger:Tue Apr 18 13:15:24 2023:[ Server ]: 49.663 Info ServerMultiplayerManager.cpp:944: updateTick(717443) received stateChanged peerID(1) oldState(InGame) newState(DisconnectScheduled)
+INFO:server:logger:Tue Apr 18 13:15:24 2023:[ Server ]: 2023-04-18 13:15:24 [LEAVE] Yuki_Hiroshi left the game
+INFO:server:logger:Tue Apr 18 13:15:24 2023:[ Server ]: 49.664 Info ServerSynchronizer.cpp:623: nextHeartbeatSequenceNumber(2475) removing peer(1).
+INFO:server:logger:Tue Apr 18 13:15:25 2023:[ Server ]: 50.661 Info ServerMultiplayerManager.cpp:1205: Auto saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 13:15:25 2023:[ Server ]: 50.678 Info AppManager.cpp:420: Saving game as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 13:15:26 2023:[ Server ]: 51.328 Info AppManagerStates.cpp:1910: Saving finished
+INFO:server:logger:Tue Apr 18 13:15:54 2023:[ Server ]: 79.678 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:51035}))
+INFO:server:logger:Tue Apr 18 13:15:54 2023:[ Server ]: 79.678 Info ServerRouter.cpp:451: Replying to connectionRequest for address(IP ADDR:({153.33.108.186:51035})).
+INFO:server:logger:Tue Apr 18 13:15:54 2023:[ Server ]: 79.678 Info ServerSynchronizer.cpp:604: nextHeartbeatSequenceNumber(4275) adding peer(2)
+INFO:server:logger:Tue Apr 18 13:15:54 2023:[ Server ]: 79.696 Info ServerMultiplayerManager.cpp:795: updateTick(717444) changing state from(InGame) to(InGameSavingMap)
+INFO:server:logger:Tue Apr 18 13:15:54 2023:[ Server ]: 79.744 Info ServerMultiplayerManager.cpp:944: updateTick(717444) received stateChanged peerID(2) oldState(Ready) newState(ConnectedWaitingForMap)
+INFO:server:logger:Tue Apr 18 13:15:54 2023:[ Server ]: 80.284 Info ServerMultiplayerManager.cpp:1005: UpdateTick(717444) Serving map(/home/factorio_handler/server/temp/mp-save-1.zip) for peer(2) size(4139878) auxiliary(140) crc(3116009033)
+INFO:server:logger:Tue Apr 18 13:15:54 2023:[ Server ]: 80.285 Info ServerMultiplayerManager.cpp:795: updateTick(717444) changing state from(InGameSavingMap) to(InGame)
+INFO:server:logger:Tue Apr 18 13:15:55 2023:[ Server ]: 80.361 Info ServerMultiplayerManager.cpp:944: updateTick(717444) received stateChanged peerID(2) oldState(ConnectedWaitingForMap) newState(ConnectedDownloadingMap)
+INFO:server:logger:Tue Apr 18 13:15:55 2023:[ Server ]: 81.061 Info ServerMultiplayerManager.cpp:944: updateTick(717444) received stateChanged peerID(2) oldState(ConnectedDownloadingMap) newState(ConnectedLoadingMap)
+INFO:server:logger:Tue Apr 18 13:15:55 2023:[ Server ]: 81.211 Info ServerMultiplayerManager.cpp:944: updateTick(717452) received stateChanged peerID(2) oldState(ConnectedLoadingMap) newState(TryingToCatchUp)
+INFO:server:logger:Tue Apr 18 13:15:55 2023:[ Server ]: 81.228 Info ServerMultiplayerManager.cpp:944: updateTick(717453) received stateChanged peerID(2) oldState(TryingToCatchUp) newState(WaitingForCommandToStartSendingTickClosures)
+INFO:server:logger:Tue Apr 18 13:15:55 2023:[ Server ]: 81.228 Info GameActionHandler.cpp:5072: UpdateTick (717453) processed PlayerJoinGame peerID(2) playerIndex(0) mode(connect) 
+INFO:server:logger:Tue Apr 18 13:15:55 2023:[ Server ]: 81.294 Info ServerMultiplayerManager.cpp:944: updateTick(717457) received stateChanged peerID(2) oldState(WaitingForCommandToStartSendingTickClosures) newState(InGame)
+INFO:server:logger:Tue Apr 18 13:15:55 2023:[ Server ]: 2023-04-18 13:15:55 [JOIN] Yuki_Hiroshi joined the game
+INFO:server:logger:Tue Apr 18 13:16:38 2023:[ Server ]: 123.694 Info AppManager.cpp:306: Saving to _autosave10 (blocking).
+INFO:server:logger:Tue Apr 18 13:16:39 2023:[ Server ]: 124.362 Info AppManagerStates.cpp:1910: Saving finished
+INFO:server:logger:Tue Apr 18 13:20:37 2023:[ Server ]: 362.544 Info ServerMultiplayerManager.cpp:1058: Disconnect notification for peer (2)
+INFO:server:logger:Tue Apr 18 13:20:37 2023:[ Server ]: 362.546 Info ServerMultiplayerManager.cpp:944: updateTick(734292) received stateChanged peerID(2) oldState(InGame) newState(DisconnectScheduled)
+INFO:server:logger:Tue Apr 18 13:20:37 2023:[ Server ]: 2023-04-18 13:20:37 [LEAVE] Yuki_Hiroshi left the game
+INFO:server:logger:Tue Apr 18 13:20:37 2023:[ Server ]: 362.547 Info ServerSynchronizer.cpp:623: nextHeartbeatSequenceNumber(21248) removing peer(2).
+INFO:server:logger:Tue Apr 18 13:20:38 2023:[ Server ]: 363.544 Info ServerMultiplayerManager.cpp:1205: Auto saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 13:20:38 2023:[ Server ]: 363.561 Info AppManager.cpp:420: Saving game as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Tue Apr 18 13:20:38 2023:[ Server ]: 364.212 Info AppManagerStates.cpp:1910: Saving finished
+INFO:server:logger:Wed Apr 19 00:05:03 2023:[ Server ]: 39029.101 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:60721}))
+INFO:server:logger:Wed Apr 19 00:05:03 2023:[ Server ]: 39029.121 Refusing connection for address (IP ADDR:({153.33.108.186:60721})), username (Yuki_Hiroshi). UserVerificationMissing
+INFO:server:logger:Wed Apr 19 00:05:04 2023:[ Server ]: 39029.393 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:51315}))
+INFO:server:logger:Wed Apr 19 00:05:04 2023:[ Server ]: 39029.399 Info ServerRouter.cpp:451: Replying to connectionRequest for address(IP ADDR:({153.33.108.186:51315})).
+INFO:server:logger:Wed Apr 19 00:05:04 2023:[ Server ]: 39029.404 Info ServerSynchronizer.cpp:604: nextHeartbeatSequenceNumber(2341258) adding peer(3)
+INFO:server:logger:Wed Apr 19 00:05:04 2023:[ Server ]: 39029.436 Info ServerMultiplayerManager.cpp:795: updateTick(734293) changing state from(InGame) to(InGameSavingMap)
+INFO:server:logger:Wed Apr 19 00:05:04 2023:[ Server ]: 39029.476 Info ServerMultiplayerManager.cpp:944: updateTick(734293) received stateChanged peerID(3) oldState(Ready) newState(ConnectedWaitingForMap)
+INFO:server:logger:Wed Apr 19 00:05:04 2023:[ Server ]: 39030.303 Info ServerMultiplayerManager.cpp:1005: UpdateTick(734293) Serving map(/home/factorio_handler/server/temp/mp-save-2.zip) for peer(3) size(4132718) auxiliary(140) crc(2759918086)
+INFO:server:logger:Wed Apr 19 00:05:04 2023:[ Server ]: 39030.309 Info ServerMultiplayerManager.cpp:795: updateTick(734293) changing state from(InGameSavingMap) to(InGame)
+INFO:server:logger:Wed Apr 19 00:05:05 2023:[ Server ]: 39030.393 Info ServerMultiplayerManager.cpp:944: updateTick(734293) received stateChanged peerID(3) oldState(ConnectedWaitingForMap) newState(ConnectedDownloadingMap)
+INFO:server:logger:Wed Apr 19 00:05:06 2023:[ Server ]: 39031.759 Info ServerMultiplayerManager.cpp:944: updateTick(734293) received stateChanged peerID(3) oldState(ConnectedDownloadingMap) newState(ConnectedLoadingMap)
+INFO:server:logger:Wed Apr 19 00:05:06 2023:[ Server ]: 39031.943 Info ServerMultiplayerManager.cpp:944: updateTick(734303) received stateChanged peerID(3) oldState(ConnectedLoadingMap) newState(TryingToCatchUp)
+INFO:server:logger:Wed Apr 19 00:05:06 2023:[ Server ]: 39031.943 Info ServerMultiplayerManager.cpp:944: updateTick(734303) received stateChanged peerID(3) oldState(TryingToCatchUp) newState(WaitingForCommandToStartSendingTickClosures)
+INFO:server:logger:Wed Apr 19 00:05:06 2023:[ Server ]: 39031.947 Info GameActionHandler.cpp:5072: UpdateTick (734303) processed PlayerJoinGame peerID(3) playerIndex(0) mode(connect) 
+INFO:server:logger:Wed Apr 19 00:05:06 2023:[ Server ]: 39032.026 Info ServerMultiplayerManager.cpp:944: updateTick(734308) received stateChanged peerID(3) oldState(WaitingForCommandToStartSendingTickClosures) newState(InGame)
+INFO:server:logger:Wed Apr 19 00:05:06 2023:[ Server ]: 2023-04-19 00:05:06 [JOIN] Yuki_Hiroshi joined the game
+INFO:server:logger:Wed Apr 19 00:11:08 2023:[ Server ]: 39393.578 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+INFO:server:logger:Wed Apr 19 00:11:09 2023:[ Server ]: 39394.328 Info AppManagerStates.cpp:1910: Saving finished
+INFO:server:logger:Wed Apr 19 00:21:09 2023:[ Server ]: 39994.326 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+INFO:server:logger:Wed Apr 19 00:21:09 2023:[ Server ]: 39995.044 Info AppManagerStates.cpp:1910: Saving finished
+INFO:server:logger:Wed Apr 19 00:31:09 2023:[ Server ]: 40595.043 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+INFO:server:logger:Wed Apr 19 00:31:10 2023:[ Server ]: 40595.727 Info AppManagerStates.cpp:1910: Saving finished
+INFO:server:logger:Wed Apr 19 00:41:10 2023:[ Server ]: 41195.726 Info AppManager.cpp:306: Saving to _autosave4 (blocking).
+INFO:server:logger:Wed Apr 19 00:41:11 2023:[ Server ]: 41196.427 Info AppManagerStates.cpp:1910: Saving finished
+INFO:server:logger:Wed Apr 19 00:42:14 2023:[ Server ]: 41259.860 Info ServerMultiplayerManager.cpp:1058: Disconnect notification for peer (3)
+INFO:server:logger:Wed Apr 19 00:42:14 2023:[ Server ]: 41259.861 Info ServerMultiplayerManager.cpp:944: updateTick(867807) received stateChanged peerID(3) oldState(InGame) newState(DisconnectScheduled)
+INFO:server:logger:Wed Apr 19 00:42:14 2023:[ Server ]: 2023-04-19 00:42:14 [LEAVE] Yuki_Hiroshi left the game
+INFO:server:logger:Wed Apr 19 00:42:14 2023:[ Server ]: 41259.862 Info ServerSynchronizer.cpp:623: nextHeartbeatSequenceNumber(2475087) removing peer(3).
+INFO:server:logger:Wed Apr 19 00:42:15 2023:[ Server ]: 41260.859 Info ServerMultiplayerManager.cpp:1205: Auto saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Wed Apr 19 00:42:15 2023:[ Server ]: 41260.876 Info AppManager.cpp:420: Saving game as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Wed Apr 19 00:42:16 2023:[ Server ]: 41261.560 Info AppManagerStates.cpp:1910: Saving finished
+INFO:server:logger:Wed Apr 19 00:49:22 2023:[ Server ]: 41688.093 ConnectionRequestReplyConfirm (type(ConnectionRequestReplyConfirm) ) from(IP ADDR:({153.33.108.186:58042}))
+INFO:server:logger:Wed Apr 19 00:49:22 2023:[ Server ]: 41688.095 Info ServerRouter.cpp:451: Replying to connectionRequest for address(IP ADDR:({153.33.108.186:58042})).
+INFO:server:logger:Wed Apr 19 00:49:22 2023:[ Server ]: 41688.095 Info ServerSynchronizer.cpp:604: nextHeartbeatSequenceNumber(2500780) adding peer(4)
+INFO:server:logger:Wed Apr 19 00:49:22 2023:[ Server ]: 41688.116 Info ServerMultiplayerManager.cpp:795: updateTick(867808) changing state from(InGame) to(InGameSavingMap)
+INFO:server:logger:Wed Apr 19 00:49:22 2023:[ Server ]: 41688.143 Info ServerMultiplayerManager.cpp:944: updateTick(867808) received stateChanged peerID(4) oldState(Ready) newState(ConnectedWaitingForMap)
+INFO:server:logger:Wed Apr 19 00:49:23 2023:[ Server ]: 41688.749 Info ServerMultiplayerManager.cpp:1005: UpdateTick(867808) Serving map(/home/factorio_handler/server/temp/mp-save-3.zip) for peer(4) size(4181673) auxiliary(140) crc(551087627)
+INFO:server:logger:Wed Apr 19 00:49:23 2023:[ Server ]: 41688.750 Info ServerMultiplayerManager.cpp:795: updateTick(867808) changing state from(InGameSavingMap) to(InGame)
+INFO:server:logger:Wed Apr 19 00:49:23 2023:[ Server ]: 41688.809 Info ServerMultiplayerManager.cpp:944: updateTick(867808) received stateChanged peerID(4) oldState(ConnectedWaitingForMap) newState(ConnectedDownloadingMap)
+INFO:server:logger:Wed Apr 19 00:49:25 2023:[ Server ]: 41690.376 Info ServerMultiplayerManager.cpp:944: updateTick(867808) received stateChanged peerID(4) oldState(ConnectedDownloadingMap) newState(ConnectedLoadingMap)
+INFO:server:logger:Wed Apr 19 00:49:25 2023:[ Server ]: 41690.526 Info ServerMultiplayerManager.cpp:944: updateTick(867816) received stateChanged peerID(4) oldState(ConnectedLoadingMap) newState(TryingToCatchUp)
+INFO:server:logger:Wed Apr 19 00:49:25 2023:[ Server ]: 41690.559 Info ServerMultiplayerManager.cpp:944: updateTick(867818) received stateChanged peerID(4) oldState(TryingToCatchUp) newState(WaitingForCommandToStartSendingTickClosures)
+INFO:server:logger:Wed Apr 19 00:49:25 2023:[ Server ]: 41690.560 Info GameActionHandler.cpp:5072: UpdateTick (867818) processed PlayerJoinGame peerID(4) playerIndex(0) mode(connect) 
+INFO:server:logger:Wed Apr 19 00:49:25 2023:[ Server ]: 41690.626 Info ServerMultiplayerManager.cpp:944: updateTick(867822) received stateChanged peerID(4) oldState(WaitingForCommandToStartSendingTickClosures) newState(InGame)
+INFO:server:logger:Wed Apr 19 00:49:25 2023:[ Server ]: 2023-04-19 00:49:25 [JOIN] Yuki_Hiroshi joined the game
+INFO:server:logger:Wed Apr 19 00:57:34 2023:[ Server ]: 42180.109 Info ServerMultiplayerManager.cpp:1058: Disconnect notification for peer (4)
+INFO:server:logger:Wed Apr 19 00:57:34 2023:[ Server ]: 42180.111 Info ServerMultiplayerManager.cpp:944: updateTick(897191) received stateChanged peerID(4) oldState(InGame) newState(DisconnectScheduled)
+INFO:server:logger:Wed Apr 19 00:57:34 2023:[ Server ]: 2023-04-19 00:57:34 [LEAVE] Yuki_Hiroshi left the game
+INFO:server:logger:Wed Apr 19 00:57:34 2023:[ Server ]: 42180.112 Info ServerSynchronizer.cpp:623: nextHeartbeatSequenceNumber(2530302) removing peer(4).
+INFO:server:logger:Wed Apr 19 00:57:35 2023:[ Server ]: 42181.109 Info ServerMultiplayerManager.cpp:1205: Auto saving map as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Wed Apr 19 00:57:35 2023:[ Server ]: 42181.126 Info AppManager.cpp:420: Saving game as /home/factorio_handler/server/saves/sss.zip
+INFO:server:logger:Wed Apr 19 00:57:36 2023:[ Server ]: 42181.844 Info AppManagerStates.cpp:1910: Saving finished
