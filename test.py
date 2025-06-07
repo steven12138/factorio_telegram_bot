@@ -1,6 +1,6 @@
 from server import Server
 
-s = Server()
+s = Server(34197)
 
 s.start()
 import time
